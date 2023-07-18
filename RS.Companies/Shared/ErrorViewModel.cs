@@ -1,4 +1,4 @@
-namespace RS.Companies.Models
+namespace RS.Companies.Shared
 {
     public class ErrorViewModel
     {
