@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace RS.Companies.Features.Pages
+namespace RS.Companies.Controllers
 {
     public class CompaniesController : Controller
     {
